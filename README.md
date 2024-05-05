@@ -3,8 +3,8 @@
 
 
 # <img src="https://img.freepik.com/premium-vector/sweet-feline-pink-kawaii-cartoon-cat-icon-with-saturated-colors-white-amber-accents-ani_801298-60.jpg?w=740" alt="AI" width="30"> About Me:
+<br>
 <center>Computer and systems engineering student, member of ACM.Chapter.Cusco</center>
-
 <br>
 
 
