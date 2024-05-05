@@ -1,4 +1,4 @@
-# <center>Hi, I'm Winny  <img src="https://png2.cleanpng.com/sh/142ff6687770d6669f39f90f81436007/L0KzQYm3U8E0N5hwiZH0aYP2gLBuTfNifF5wgeZ9ZX6wh7LziBlvb151jeR7LXnmf7A0lPlxfJDqRdVqdD24cbKBUBZjPWo5fNg6OT64Roa8VcQ4QWI6SqIEN0W6SYi9UMk5NqFzf3==/kisspng-cat-kitten-walking-purr-icon-tiptoe-cat-5aa83fb594df19.5655547915209757976098.png" alt="Dev" width="25"> </center>
+# <center>Hi, I'm Winny  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-VMaN-gW7MCQi5nxi5Ejd3kdvrhMLrFzkmVAn3QRew&s" alt="Dev" width="25"> </center>
 
 
 
